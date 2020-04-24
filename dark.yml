@@ -9,9 +9,9 @@ scene:
   background:
     color: global.land_color
   sky:
-    zenith: '#010205'
-    horizon: '#010205'
-    fog: '#21262B'
+    zenith: '#ff0000'
+    horizon: '#00ff00'
+    fog: '#0000ff'
 
 global:
   text_font_family: FiraGO
