@@ -328,10 +328,10 @@ global:
   park_color: rgb (70, 77, 70)
   # applies to allotment, amusement, animal, cemetery, sports complex
   green_area_color: [
-    [13, 'rgb(110, 110, 110)'],
-    [14, 'rgb(110, 110, 110)'],
-    [15, 'rgb(110, 110, 110)'],
-    [16, 'rgb(110, 110, 110)']
+    [13, 'rgb(110, 255, 110)'],
+    [14, 'rgb(110, 255, 110)'],
+    [15, 'rgb(110, 255, 110)'],
+    [16, 'rgb(110, 255, 110)']
   ]
   pedestrian_area_color: [
     [9, 'rgb(225,234,240)'],
